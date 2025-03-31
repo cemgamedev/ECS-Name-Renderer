@@ -20,6 +20,10 @@ This project is a text visualization system developed using Unity's Entity Compo
 - Unity DOTS (Data-Oriented Technology Stack)
 - Burst Compiler
 
+
+https://github.com/user-attachments/assets/90107112-9224-4ca1-b614-fbf58a4876ad
+
+
 ## 📂 System Components
 
 ### Components
